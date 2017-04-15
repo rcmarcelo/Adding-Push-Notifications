@@ -4,8 +4,8 @@ This is from a Google Codelab that teaches you how to add push notifications to 
 
 #### How to run
 
-In order to run this locally, you must download [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) app. After that, open the app and click the "choose folder" button. Select the 'app' folder. Also, check  "Automatically show index.html" box. Then you can open the project by clicking on the Web Server URL.
+In order to run this locally, you must download [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb) app. After that, open the app and click the "choose folder" button. Select the "app" folder. Also, check "Automatically show index.html" box. Then you can open the project by clicking on the Web Server URL.
 
-Now, generate an application server keys with [Push Companion](https://web-push-codelab.appspot.com) and copy your public key into scripts/main.js replacing the <Your Public Key> value. 
+Now, generate an application server keys with [Push Companion](https://web-push-codelab.appspot.com) and copy your public key into ```scripts/main.js``` replacing the ```<Your Public Key>``` value. 
 
 You can already try it! Google Chrome's console will be useful now.
